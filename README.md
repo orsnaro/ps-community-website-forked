@@ -1,6 +1,8 @@
 > # E-KSU Problem Solving Community  Website
 
-  [![local site badge](https://img.shields.io/badge/Local%20-%20Hosted-%20green)](http://narors.ddns.net/repo_ps_site)   [![local site badge](https://img.shields.io/badge/Remote%20-%20Hosted-%20purple)](https://eksu-psc.42web.io/?i=1)
+  [![local site badge](https://img.shields.io/website?up_message=Up&up_color=green&down_message=Down&down_color=red&url=http%3A%2F%2Fnarors.ddns.net%2Frepo_ps_site%2F&label=local%20host
+)](http://narors.ddns.net/repo_ps_site)   [![remote site badge](https://img.shields.io/website?up_message=Up&up_color=green&down_message=Down&down_color=red&url=http%3A%2F%2Feksu-psc.42web.io%2F%3Fi%3D1%2F&label=Remote%20host&labelColor=purple
+)](https://eksu-psc.42web.io/?i=1)
 
  
   
